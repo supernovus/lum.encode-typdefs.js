@@ -1,0 +1,27 @@
+{
+  "name": "@lumjs/encode-typdefs",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./lib/index.js",
+    "./data": "./lib/data.js",
+    "./dom": "./lib/dom.js",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@lumjs/encode": "^2.8.1",
+    "@lumjs/typdef": "^1.0.1"
+  },
+  "devDependencies": {
+    "@lumjs/tests": "^2.2.0",
+    "@happy-dom/global-registrator": "20.11.1"
+  },
+  "scripts": {
+    "test": "lumtest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supernovus/lum.encode-typdefs.js.git"
+  },
+  "license": "MIT"
+}
