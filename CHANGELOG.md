@@ -6,10 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-10-09
+### Changed
+- Bumped [@lumjs/typdef] version for `keyLower` support.
+- Enabled `keyLower` option on both default and `dom` modules.
+
 ## [1.0.0] - 2026-10-01
 ### Added
 - Initial release.
 
-[Unreleased]: https://github.com/supernovus/lum.encode-typdefs.js/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/supernovus/lum.encode-typdefs.js/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/supernovus/lum.encode-typdefs.js/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/supernovus/lum.encode-typdefs.js/releases/tag/v1.0.0
 

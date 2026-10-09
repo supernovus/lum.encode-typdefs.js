@@ -1,6 +1,6 @@
 {
   "name": "@lumjs/encode-typdefs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "exports": {
     ".": "./lib/index.js",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@lumjs/encode": "^2.8.1",
-    "@lumjs/typdef": "^1.0.1"
+    "@lumjs/typdef": "^1.1.0"
   },
   "devDependencies": {
     "@lumjs/tests": "^2.2.0",
